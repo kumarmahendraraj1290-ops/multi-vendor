@@ -6,7 +6,7 @@ A modular, scalable multi-vendor checkout system built with Laravel 12. Customer
 
 ```bash
 # Clone and install dependencies
-git clone <repository-url>
+git clone https://github.com/kumarmahendraraj1290-ops/multi-vendor.git
 cd multi-vendor
 composer install
 
